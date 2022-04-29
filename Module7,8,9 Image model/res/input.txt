@@ -1,0 +1,13 @@
+load snow-mountain.png
+blur
+blur
+save snow-mountain-blurred-2.png
+sepia
+save snow-mountain-blurred-sepia.png
+load side-walk.png
+dither
+save side-walk-dither.png
+load side-walk.png
+blur
+blur
+save side-walk-blurred-2.png
